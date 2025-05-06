@@ -1,0 +1,12 @@
+@font-face {
+    font-family: bank_gothic_light;
+    src: url(/assets/polices/Bank\ Gothic\ Light\ Regular.otf) format(opentype);
+
+    font-family: bank_gothic_medium;
+    src: url(/assets/polices/bank\ gothic\ medium\ bt.ttf) format(opentype);
+
+    font-family: bank_gothic_bold;
+    src: url(/assets/polices/BankGothic\ Bold.ttf) format(opentype);
+
+    
+}
